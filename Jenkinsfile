@@ -4,7 +4,7 @@ pipeline {
    stages {
       stage('Hello') {
          steps {
-            echo 'Sunny Patel 8027 BE-IT DevOps Assignment Jenkins'
+            echo 'Amandeep 8033'
          }
       }
    }
